@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda.Modelo", "Tienda.Modelo\Tienda.Modelo.csproj", "{AA17DF9C-9102-4268-9E01-A3E95AA9B224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOriginal", "TiendaAppOriginal\TiendaOriginal.csproj", "{3B4313BA-820C-4260-9C35-1CD05B15D65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaRefactorizada", "TiendaAppRefactorizada\TiendaRefactorizada.csproj", "{46A1779F-3E5B-466D-8B7A-6DA7CF2905A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA17DF9C-9102-4268-9E01-A3E95AA9B224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA17DF9C-9102-4268-9E01-A3E95AA9B224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA17DF9C-9102-4268-9E01-A3E95AA9B224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA17DF9C-9102-4268-9E01-A3E95AA9B224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4313BA-820C-4260-9C35-1CD05B15D65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4313BA-820C-4260-9C35-1CD05B15D65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4313BA-820C-4260-9C35-1CD05B15D65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4313BA-820C-4260-9C35-1CD05B15D65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A1779F-3E5B-466D-8B7A-6DA7CF2905A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A1779F-3E5B-466D-8B7A-6DA7CF2905A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A1779F-3E5B-466D-8B7A-6DA7CF2905A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A1779F-3E5B-466D-8B7A-6DA7CF2905A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
